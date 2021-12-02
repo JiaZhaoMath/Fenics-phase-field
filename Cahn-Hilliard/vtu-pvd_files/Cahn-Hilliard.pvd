@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<VTKFile type="Collection" version="0.1">
+  <Collection>
+    <DataSet timestep="5.0000000000000004e-06" part="0" file="Cahn-Hilliard000000.vtu" />
+    <DataSet timestep="1.0000000000000001e-05" part="0" file="Cahn-Hilliard000001.vtu" />
+    <DataSet timestep="1.5000000000000002e-05" part="0" file="Cahn-Hilliard000002.vtu" />
+    <DataSet timestep="2.0000000000000002e-05" part="0" file="Cahn-Hilliard000003.vtu" />
+    <DataSet timestep="2.5000000000000001e-05" part="0" file="Cahn-Hilliard000004.vtu" />
+    <DataSet timestep="3.0000000000000001e-05" part="0" file="Cahn-Hilliard000005.vtu" />
+    <DataSet timestep="3.5000000000000004e-05" part="0" file="Cahn-Hilliard000006.vtu" />
+    <DataSet timestep="4.0000000000000003e-05" part="0" file="Cahn-Hilliard000007.vtu" />
+    <DataSet timestep="4.5000000000000003e-05" part="0" file="Cahn-Hilliard000008.vtu" />
+    <DataSet timestep="5.0000000000000002e-05" part="0" file="Cahn-Hilliard000009.vtu" />
+    <DataSet timestep="5.5000000000000002e-05" part="0" file="Cahn-Hilliard000010.vtu" />
+    <DataSet timestep="6.0000000000000002e-05" part="0" file="Cahn-Hilliard000011.vtu" />
+    <DataSet timestep="6.5000000000000008e-05" part="0" file="Cahn-Hilliard000012.vtu" />
+    <DataSet timestep="7.0000000000000007e-05" part="0" file="Cahn-Hilliard000013.vtu" />
+    <DataSet timestep="7.5000000000000007e-05" part="0" file="Cahn-Hilliard000014.vtu" />
+    <DataSet timestep="8.0000000000000007e-05" part="0" file="Cahn-Hilliard000015.vtu" />
+    <DataSet timestep="8.5000000000000006e-05" part="0" file="Cahn-Hilliard000016.vtu" />
+    <DataSet timestep="9.0000000000000006e-05" part="0" file="Cahn-Hilliard000017.vtu" />
+    <DataSet timestep="9.5000000000000005e-05" part="0" file="Cahn-Hilliard000018.vtu" />
+    <DataSet timestep="0.0001" part="0" file="Cahn-Hilliard000019.vtu" />
+    <DataSet timestep="0.000105" part="0" file="Cahn-Hilliard000020.vtu" />
+    <DataSet timestep="0.00011" part="0" file="Cahn-Hilliard000021.vtu" />
+    <DataSet timestep="0.000115" part="0" file="Cahn-Hilliard000022.vtu" />
+    <DataSet timestep="0.00012" part="0" file="Cahn-Hilliard000023.vtu" />
+    <DataSet timestep="0.000125" part="0" file="Cahn-Hilliard000024.vtu" />
+    <DataSet timestep="0.00013000000000000002" part="0" file="Cahn-Hilliard000025.vtu" />
+    <DataSet timestep="0.00013500000000000003" part="0" file="Cahn-Hilliard000026.vtu" />
+    <DataSet timestep="0.00014000000000000004" part="0" file="Cahn-Hilliard000027.vtu" />
+    <DataSet timestep="0.00014500000000000006" part="0" file="Cahn-Hilliard000028.vtu" />
+    <DataSet timestep="0.00015000000000000007" part="0" file="Cahn-Hilliard000029.vtu" />
+    <DataSet timestep="0.00015500000000000008" part="0" file="Cahn-Hilliard000030.vtu" />
+    <DataSet timestep="0.00016000000000000009" part="0" file="Cahn-Hilliard000031.vtu" />
+    <DataSet timestep="0.00016500000000000011" part="0" file="Cahn-Hilliard000032.vtu" />
+    <DataSet timestep="0.00017000000000000012" part="0" file="Cahn-Hilliard000033.vtu" />
+    <DataSet timestep="0.00017500000000000013" part="0" file="Cahn-Hilliard000034.vtu" />
+    <DataSet timestep="0.00018000000000000015" part="0" file="Cahn-Hilliard000035.vtu" />
+    <DataSet timestep="0.00018500000000000016" part="0" file="Cahn-Hilliard000036.vtu" />
+    <DataSet timestep="0.00019000000000000017" part="0" file="Cahn-Hilliard000037.vtu" />
+    <DataSet timestep="0.00019500000000000019" part="0" file="Cahn-Hilliard000038.vtu" />
+    <DataSet timestep="0.0002000000000000002" part="0" file="Cahn-Hilliard000039.vtu" />
+    <DataSet timestep="0.00020500000000000021" part="0" file="Cahn-Hilliard000040.vtu" />
+    <DataSet timestep="0.00021000000000000023" part="0" file="Cahn-Hilliard000041.vtu" />
+    <DataSet timestep="0.00021500000000000024" part="0" file="Cahn-Hilliard000042.vtu" />
+    <DataSet timestep="0.00022000000000000025" part="0" file="Cahn-Hilliard000043.vtu" />
+    <DataSet timestep="0.00022500000000000026" part="0" file="Cahn-Hilliard000044.vtu" />
+    <DataSet timestep="0.00023000000000000028" part="0" file="Cahn-Hilliard000045.vtu" />
+    <DataSet timestep="0.00023500000000000029" part="0" file="Cahn-Hilliard000046.vtu" />
+    <DataSet timestep="0.0002400000000000003" part="0" file="Cahn-Hilliard000047.vtu" />
+    <DataSet timestep="0.00024500000000000032" part="0" file="Cahn-Hilliard000048.vtu" />
+    <DataSet timestep="0.00025000000000000033" part="0" file="Cahn-Hilliard000049.vtu" />
+  </Collection>
+</VTKFile>
